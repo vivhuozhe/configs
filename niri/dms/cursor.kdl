@@ -1,0 +1,9 @@
+// input {
+// 	keyboard{
+// 		repeat-rate 35
+// 		repeat-delay 200
+// 	}
+// 	mouse{
+// 		accel-profile "flat"
+// 	}
+// }
